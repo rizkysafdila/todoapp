@@ -1,7 +1,7 @@
 {
   "todos": [
-    {"id": 1, "title": "Eksplorasi Vue 3"},
-    {"id": 2, "title": "Eksplorasi TypeScript"}
+    { "id": 1, "title": "Eksplorasi Vue 3", "completed": false },
+    { "id": 2, "title": "Eksplorasi TypeScript", "completed": false }
   ],
   "profile": {
     "name": "rizkysafdila"
